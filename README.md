@@ -6,8 +6,8 @@
 
 ### 📚 Experience
 
-- **Full Stack, BoostCamp - membership, Naver Connect Foundation (2021.08.23 ~ )**
-- **Full Stack, BoostCamp - challenge, Naver Connect Foundation (2021.07.19 ~ 2021.08.13)**
+- **Full Stack course, BoostCamp - membership, Naver Connect Foundation (2021.08.23 ~ )**
+- **Full Stack course, BoostCamp - challenge, Naver Connect Foundation (2021.07.19 ~ 2021.08.13)**
 - **Computer Software Engineering, Kumoh National Institute of Technology (2015.03 ~ 2021.08)**
 
 ### 👨‍💻 Blog
