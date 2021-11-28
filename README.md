@@ -6,9 +6,12 @@
 
 ### 📚 Experience
 
-- **Full Stack course, BoostCamp - membership, Naver Connect Foundation (2021.08.23 ~ )**
-- **Full Stack course, BoostCamp - challenge, Naver Connect Foundation (2021.07.19 ~ 2021.08.13)**
-- **Computer Software Engineering, Kumoh National Institute of Technology (2015.03 ~ 2021.08)**
+- **네이버 커넥션 재단 부스트캠프 웹 풀스택(멤버십 과정) 이수중 (2021.08.23 ~ )**
+- **네이버 커넥션 재단 부스트캠프 부커톤, 프로젝트 맛좀볼래? 7첩반상 수상**
+- **네이버 커넥션 재단 부스트캠프 웹 풀스택(챌린지 과정) 수료 (2021.07.19 ~ 2021.08.13)**
+- **KIT Engineering Fair 2020 (2020.12.21 ~ 2020.12.24), 프로젝트 PlayLog 금상 수상**
+- **2020 한국소프트웨어종합학술대회 학부생/주니어 논문경진대회 학부생부문 장려상 수상**
+- **금오공과대학교, 컴퓨터소프트웨어공학과 졸업 (2015.03 ~ 2021.08)**
 
 ### 👨‍💻 Blog
 
