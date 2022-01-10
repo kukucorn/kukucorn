@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm kukucorn
 
-- 🖥️ **I'm a backend developer**
+- 🖥️ **I'm a full-stack web developer**
 - 🇰🇷 **I'm studying in Republic of Korea**
-- 🌱 **I’m currently learning** ![javascript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=FFFFFF&style=plastic) ![node.js](https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&style=plastic) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=plastic) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=FFFFFF&style=plastic) ![mysql](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=FFFFFF&style=plastic) ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-AWS&logoColor=FFFFFF&style=plastic)
+- 🌱 **I’m currently learning** ![javascript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=FFFFFF&style=plastic) ![node.js](https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&style=plastic) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=plastic) ![mysql](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=FFFFFF&style=plastic) ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-AWS&logoColor=FFFFFF&style=plastic)
 
 ### 📚 Experience
 
