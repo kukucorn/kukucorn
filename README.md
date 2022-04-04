@@ -1,11 +1,15 @@
 ## Hi there 👋 I'm kukucorn
 
 - 🖥️ **I'm a full-stack web developer**
-- 🇰🇷 **I'm studying in Republic of Korea**
-- 🌱 **I’m currently learning** ![javascript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=FFFFFF&style=plastic) ![node.js](https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&style=plastic) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=plastic) ![mysql](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=FFFFFF&style=plastic) ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-AWS&logoColor=FFFFFF&style=plastic)
+- 🌱 **I’m currently learning** 
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=FFFFFF&style=plastic) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=FFFFFF&style=plastic) 
+  - ![node.js](https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&style=plastic) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=plastic) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=plastic) 
+  - ![mysql](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=FFFFFF&style=plastic) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=FFFFFF&style=plastic) 
+  - ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-AWS&logoColor=FFFFFF&style=plastic)
 
 ### 📚 Experience
 
+- **네이버 Glace CIC PUP 인턴 (2022.02.16 ~ 2022.04.01)**
 - **네이버 커넥션 재단 부스트캠프 웹 풀스택(멤버십 과정) 수료 (2021.08.23 ~ 2021.12.03)**
 - **네이버 커넥션 재단 부스트캠프 부커톤, 프로젝트 맛좀볼래? 7첩반상 수상**
 - **네이버 커넥션 재단 부스트캠프 웹 풀스택(챌린지 과정) 수료 (2021.07.19 ~ 2021.08.13)**
